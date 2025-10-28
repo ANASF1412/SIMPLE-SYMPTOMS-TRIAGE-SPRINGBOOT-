@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SymptomTriagerApplication<symptom-triager>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.symptomtriager.SymptomTriagerApplication",
+            "projectName": "symptom-triager",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
